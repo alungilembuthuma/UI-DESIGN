@@ -2,7 +2,7 @@
     "trainees":[
     {"id":"1","name":"Alungile", "surname":"Mbuthuma", "age": "21", "color":"Pink","gender":"female", "location":"Umlazi"},
 
-    {"id":"2","name":"Luyanda", "surname":"Shamase", "age": "24", "color":"black","gender":"male", "location":"Umla"},
+    {"id":"2","name":"Luyanda", "surname":"Shamase", "age": "24", "color":"black","gender":"male", "location":"Hammersdale"},
 
     {"id":"3","name":"Thobeka", "surname":"Bovana", "age": "22", "color":"black","gender":"female", "location":"PMB"}
     ]
